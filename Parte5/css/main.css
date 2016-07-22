@@ -1,0 +1,29 @@
+body{
+  margin:0px;
+  padding: 0px;
+}
+div{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+}
+.hijo1{
+  background-color:#ee3e64;
+  left: 0px;
+  top:0px;
+}
+.hijo2{
+  background-color:#44accf;
+  right: 0px;
+  top:0px;
+}
+.hijo3{
+  background-color:#b7d84b;
+  left: 0px;
+  bottom: 0px;
+}
+.hijo4{
+  background-color:yellow;
+  right: 0px;
+  bottom: 0px;
+}
